@@ -1,6 +1,6 @@
 
 **You can view the demo in your browser:**
-👉 [Open the Unity WebGL Playground Demo](http://localhost:8000)
+👉 [Open the Unity WebGL Playground Demo](https://fellmonkey.github.io/playground-appwrite-unity/)
 
 # Appwrite's Unity Playground 🎮
 
@@ -8,7 +8,7 @@ This Unity project is a simple way to explore the Appwrite API with the Appwrite
 
 The main sample script lives at `Assets/Scripts/AppwriteUnityPlayground.cs` and wires up UI buttons to SDK calls (Auth, Databases, Storage, Functions, Teams, Locale, Realtime).
 
-![Appwrite Playground](preview.png)
+![Appwrite Playground](.media/preview.png)
 
 ## Get Started
 
