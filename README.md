@@ -1,3 +1,4 @@
+# ⚠️ Warning: OAuth2 functionality has not been tested on iOS. If you are able to test it, please share your feedback!
 
 **You can view the demo in your browser:**
 👉 [Open the Unity WebGL Playground Demo](https://fellmonkey.github.io/playground-appwrite-unity/)
